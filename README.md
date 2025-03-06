@@ -10,7 +10,7 @@ Ante esta problemática, se hace evidente la necesidad de una solución tecnoló
 ### Integrantes
 **Grupo: IDYGS81**
 - Usuario Git: Angel-Guxman - Nombre: Angel Manuel Guzman Hoil - 22393173
-- [Nombre 2]
+- Usuario Git: OmarSM41 - Nombre: Luis Omar Alvarado Díaz - 19393035
 - [Nombre 3]
 - [Nombre 4]
 - [Nombre 5]
