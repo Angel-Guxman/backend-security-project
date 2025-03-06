@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nova\\source\\repos\\security-project\\ProjectAPI\\ProjectAPI.csproj": {}
+    "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\ProjectAPI\\ProjectAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nova\\source\\repos\\security-project\\Application\\Application.csproj": {
+    "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nova\\source\\repos\\security-project\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Nova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Application\\obj\\",
+        "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\legol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\legol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,14 +27,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\Domain.csproj"
+              "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -49,9 +48,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "all"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -81,32 +79,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.100-rc.1.24452.12, 9.0.100-rc.1.24452.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\Domain.csproj": {
+    "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Nova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\legol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\legol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,6 +117,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -131,9 +134,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "all"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -155,32 +157,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.100-rc.1.24452.12, 9.0.100-rc.1.24452.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Nova\\source\\repos\\security-project\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nova\\source\\repos\\security-project\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Nova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\legol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\legol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -189,17 +195,18 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nova\\source\\repos\\security-project\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Application\\Application.csproj"
+              "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Application\\Application.csproj"
               },
-              "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Domain\\Domain.csproj"
+              "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -212,9 +219,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "all"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -258,32 +264,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.100-rc.1.24452.12, 9.0.100-rc.1.24452.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Nova\\source\\repos\\security-project\\ProjectAPI\\ProjectAPI.csproj": {
+    "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\ProjectAPI\\ProjectAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nova\\source\\repos\\security-project\\ProjectAPI\\ProjectAPI.csproj",
+        "projectUniqueName": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\ProjectAPI\\ProjectAPI.csproj",
         "projectName": "ProjectAPI",
-        "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\ProjectAPI\\ProjectAPI.csproj",
-        "packagesPath": "C:\\Users\\Nova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nova\\source\\repos\\security-project\\ProjectAPI\\obj\\",
+        "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\ProjectAPI\\ProjectAPI.csproj",
+        "packagesPath": "C:\\Users\\legol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\ProjectAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\legol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -292,14 +302,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nova\\source\\repos\\security-project\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Nova\\source\\repos\\security-project\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\legol\\Documents\\Mis Documentos\\UNIVERSIDAD\\CUATRIMESTRE 8\\SEG EN EL DES DE APP\\ProyectoFinal\\backend-security-project\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -312,9 +323,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "all"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -346,6 +356,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.100-rc.1.24452.12, 9.0.100-rc.1.24452.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -354,7 +370,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

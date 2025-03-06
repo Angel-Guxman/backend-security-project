@@ -17,3 +17,23 @@ C:\Users\Nova\source\repos\security-project\Infrastructure\bin\Debug\net9.0\Doma
 C:\Users\Nova\source\repos\security-project\Infrastructure\bin\Debug\net9.0\Application.pdb
 C:\Users\Nova\source\repos\security-project\Infrastructure\bin\Debug\net9.0\Domain.pdb
 C:\Users\Nova\source\repos\security-project\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\legol\Documents\Mis Documentos\UNIVERSIDAD\CUATRIMESTRE 8\SEG EN EL DES DE APP\ProyectoFinal\backend-security-project\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
