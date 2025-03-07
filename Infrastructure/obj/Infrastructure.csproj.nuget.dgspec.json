@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Application\\Application.csproj": {
+    "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Application\\obj\\",
+        "projectPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Eli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +28,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\Domain.csproj"
+              "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -46,9 +49,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -83,24 +86,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\Domain.csproj": {
+    "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Eli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -109,6 +114,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -125,9 +131,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -154,24 +160,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Eli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -180,17 +188,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Application\\Application.csproj"
+              "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Application\\Application.csproj"
               },
-              "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\TAREAS 81\\Seguridad en Apps\\ProyectoFinalBack\\backend-security-project\\Domain\\Domain.csproj"
+              "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Eli\\Documents\\Back-Seguridad\\backend-security-project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -203,9 +212,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -254,7 +263,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
