@@ -1,4 +1,6 @@
-﻿using Domain.Entities.Authentication;
+﻿using Domain.Entities;
+using Domain.Entities.Authentication;
+using Domain.Entities.Logs;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.Routing;
@@ -18,10 +20,16 @@ namespace Infrastructure.Data
 
         }
         public DbSet<RefreshToken> RefreshTokens { get; set; }
-    
 
+        // Project Entities  
+        public DbSet<ExpenseCategory> ExpenseCategories { get; set; }
+        public DbSet<GoalContribution> GoalContributions { get; set; }
+        public DbSet<Goals> Goals { get; set; }
+        public DbSet<Person> Persons { get; set; }
+        public DbSet<Transaction> Transactions { get; set; }
 
-
+        // Logs
+        public DbSet<Log> Logs { get; set; }
 
     }
 }
